@@ -6,9 +6,9 @@ const Drawer = ({ selectedOption, setSelectedOption }) => {
       {/* Logo */}
       <div className="flex items-center justify-center mb-6">
         <img
-          src="https://coruscating-kheer-a59585.netlify.app/static/media/logo.52c1adf0.svg"
+          src="https://marketplace.canva.com/EAGGN4jLiEU/1/0/1600w/canva-black-and-cream-illustrative-hair-salon-logo-vkZoxxgOYCk.jpg "
           alt="Nearz Logo"
-          className="h-12"
+          className="h-35"
         />
       </div>
 
